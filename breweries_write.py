@@ -1,11 +1,5 @@
 from sqlalchemy import create_engine
 from sqlalchemy import MetaData
-from sqlalchemy import Table
-from sqlalchemy import Column
-from sqlalchemy import Integer, String, Date,Float
-from sqlalchemy import select
-from sqlalchemy import func, asc
-from datetime import datetime
 
 import pandas as pd
 
